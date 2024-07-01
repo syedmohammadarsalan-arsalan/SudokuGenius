@@ -1,5 +1,4 @@
-#SudokuGenius
-An Interactive Sudoku Solver and Generator Application
+SudokuGenius An Interactive Sudoku Solver and Generator Application
 
 Welcome to SudokuGenius! This web application allows users to generate and solve Sudoku puzzles with a user-friendly interface. The project integrates with the Sugoku API to fetch puzzles of varying difficulty levels and provides an optimized backtracking algorithm to solve them efficiently.
 
