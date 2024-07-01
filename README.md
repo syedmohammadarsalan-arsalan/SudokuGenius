@@ -5,13 +5,21 @@ An Interactive Sudoku Solver and Generator Application
 Welcome to SudokuGenius! This web application allows users to generate and solve Sudoku puzzles with a user-friendly interface. The project integrates with the Sugoku API to fetch puzzles of varying difficulty levels and provides an optimized backtracking algorithm to solve them efficiently.
 
 Features
+
 Generate Puzzles: Fetch Sudoku puzzles of different difficulty levels (easy, medium, hard, random) using the Sugoku API.
+
 Solve Puzzles: Use an optimized backtracking algorithm that improves solving speed and efficiency by 30%.
+
 Interactive UI: A clean, intuitive interface with features such as difficulty selection, puzzle reset, and status updates to enhance user experience.
+
 Tech Stack
+
 HTML: For structuring the web application.
+
 CSS: For styling and layout.
+
 JavaScript: For dynamic interactions and functionalities.
+
 Sugoku API: To fetch Sudoku puzzles.
 
 Usage
